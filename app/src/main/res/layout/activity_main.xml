@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#602196F3"
+    android:backgroundTint="#2196F3">
+
+    <!-- Add your views and constraints here -->
+
+    <ImageView
+        android:id="@+id/imageView3"
+        android:layout_width="403dp"
+        android:layout_height="302dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/comfunc" />
+
+    <Button
+        android:id="@+id/aslredirect"
+        android:layout_width="302sp"
+        android:layout_height="60sp"
+        android:layout_marginTop="136dp"
+        android:background="#3F51B5"
+        android:text="Sign To Text"
+        app:layout_constraintBottom_toTopOf="@+id/catalogRedirect"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.495"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageView3" />
+
+    <Button
+        android:id="@+id/catalogRedirect"
+        android:layout_width="302sp"
+        android:layout_height="60sp"
+        android:layout_marginBottom="92dp"
+        android:background="#3F51B5"
+        android:text="Catalog"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.495"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <TextView
+        android:id="@+id/communication"
+        android:layout_width="262dp"
+        android:layout_height="61dp"
+        android:text="Good communication is loading... Select your desired option: "
+        android:textColor="#150B0B"
+        android:textSize="16sp"
+        app:layout_constraintBottom_toTopOf="@+id/aslredirect"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageView3" />
+</androidx.constraintlayout.widget.ConstraintLayout>

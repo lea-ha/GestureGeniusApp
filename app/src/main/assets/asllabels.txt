@@ -1,0 +1,18 @@
+0 Beautiful - جميل
+1 Bed - سرير
+2 Book - كتاب
+3 Boss - مدير
+4 I - أنا
+5 I love - أحب
+6 I think - أفكر
+7 Money - مال
+8 I need - أريد
+9 Plate - صحن
+10 Sandwich - ساندويش
+11 Sorry - عفواً
+12 Thank you - شكراً
+13 You - أنت
+14 Proud - فخور
+15 Go - أذهب
+16 Home - بيت
+17 I want - أودّ

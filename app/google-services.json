@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "247239013943",
+    "project_id": "gesturegapp",
+    "storage_bucket": "gesturegapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:247239013943:android:05a596b8df8c427c8c31b2",
+        "android_client_info": {
+          "package_name": "com.gesturegenius"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "247239013943-1hl9g7ttu9f548sfi9p2423lcmfdu7b6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9qztMAOkDeXzUOngG4u3RqxKzvynx8Bg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "247239013943-1hl9g7ttu9f548sfi9p2423lcmfdu7b6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
