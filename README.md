@@ -16,6 +16,7 @@ After signing up, the main page of the app will offer users two main functions:
  Of course we will be adding more words in the near future. This is just a prototype. Around 30 sentences can be formed with the available words.
  Also, make sure that the background of the hand is clean, preferably white, and that the light is neither too low or too bright, since these factors can affect the accuracy of the results.
  # How To Use The Android GestureGenius App ?
+ First, download this repository as a ZIP file and extract it, or use git and clone this repository using the git clone command. Once you have the required folder, open it in android studio. Then use your android phone to download the app. You will have to enable developer mode in your phone (see steps to enable developer options here : https://developer.android.com/studio/debug/dev-options). Then, once you plug in your device and run the code, the application will be successfully downloaded and you will be able to use it.
  # Future Features
  Here are a few of the features we would like to implement in the future:
   - add a learn / test mode similar to the Duolingo app style to help people learn the LSL
