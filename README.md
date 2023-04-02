@@ -5,7 +5,7 @@ After signing up, the main page of the app will offer users two main functions:
   2) an LSL detector, which will open the camera of the phone and start detecting signs made by the user or a deaf person
  The aim of the catalog is to faciliate communication between those who do not know the LSL and those who practice it while the purpose of the LSL detector is to facilitate the understanding of what a deaf person wants to communicate.
  # Limitations and Improvements
- Our model is not fully implemented yet in the app, but we are working on adding a percentage of accuracy of the sign that it is guessing and a sqaure around the hand that is signing. 
+ Our model is not fully implemented yet in the app, but we are working on adding a percentage of accuracy of the sign that it is guessing and a square around the hand that is making signs. 
  For that reason, we added to this repo the python codes with which we collected our data and tested our model. In order to use the model with better results, follow these steps:
   1) open PyCharm (Python IDE) or Visual Studio Code (or any app that supports python). We used PyCharm.
   2) download the necessary packages (use any Python version between 3.7 and 3.10 because the new versions do not support yet MediaPipe which is one of the packages needed)
