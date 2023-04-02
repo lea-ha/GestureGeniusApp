@@ -16,7 +16,7 @@ After signing up, the main page of the app will offer users two main functions:
  Also, make sure that the background of the hand is clean, preferably white, and that the light is neither too low or too bright, since these factors can affect the accuracy of the results.
  # How To Use The Android GestureGenius App ?
  # Future Features
- Here are a few of the features we would like to implemant in the future:
+ Here are a few of the features we would like to implement in the future:
   - add a learn / test mode similar to the Duolingo app style to help people learn the LSL
   - add more words to the dataset
   - let the model display “sign not available” or “try another angle” to new signs instead of assigning one of the available signs
