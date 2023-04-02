@@ -12,6 +12,7 @@ After signing up, the main page of the app will offer users two main functions:
   3) copy the main.py code and the necessary files that are in the folder here (labels.txt and keras_model.h5)
   4) run the code and check for errors
   5) try making signs from the available words and have fun with it :)
+  
  Of course we will be adding more words in the near future. This is just a prototype. Around 30 sentences can be formed with the available words.
  Also, make sure that the background of the hand is clean, preferably white, and that the light is neither too low or too bright, since these factors can affect the accuracy of the results.
  # How To Use The Android GestureGenius App ?
