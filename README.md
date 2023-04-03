@@ -22,9 +22,10 @@ After signing up, the main page of the app will offer users two main functions:
  Also, make sure that the background of the hand is clean, preferably white, and that the light is neither too low or too bright, since these factors can affect the accuracy of the results.
  # Technologies Used
  - Android studio : The basis of our application.
+ - Firebase : Firebase was used for user authentication, as well as for storing the pictures available in the signs catalog.
  - OpenCV :
- - Tensorflow :
- - Firebase : Firebase was used for user authentication, as well as for storing the pictures available in the signs catalog. 
+ - Teachable Machine :
+ - Tensorflow : 
  # Future Features
  Here are a few of the features we would like to implement in the future:
   - add a learn / test mode similar to the Duolingo app style to help people learn the LSL
