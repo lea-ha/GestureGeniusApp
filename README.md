@@ -21,11 +21,11 @@ After signing up, the main page of the app will offer users two main functions:
  Of course we will be adding more words in the near future. This is just a prototype. Around 30 sentences can be formed with the available words.
  Also, make sure that the background of the hand is clean, preferably white, and that the light is neither too low or too bright, since these factors can affect the accuracy of the results.
  # Technologies Used
- - Android studio : The basis of our application.
+ - Android studio : the basis of our application.
  - Firebase : Firebase was used for user authentication, as well as for storing the pictures available in the signs catalog.
- - OpenCV :
- - Teachable Machine :
- - Tensorflow : 
+ - OpenCV : the library that allowed us to collect our data and test our model in Python
+ - Teachable Machine : to create our machine learning model namely our Tensorflow model later converted to Tensorflow Lite which was implemented in our Android app
+ - Tensorflow & Tensorflowlite: our machine learning models
  # Future Features
  Here are a few of the features we would like to implement in the future:
   - add a learn / test mode similar to the Duolingo app style to help people learn the LSL
