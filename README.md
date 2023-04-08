@@ -3,6 +3,7 @@ GestureGenius is an Android app that aims to facilitate communication between de
 After signing up, the main page of the app will offer users two main functions: 
   1) a catalog that contains all the words of the LSL in arabic and in english with their equivalent gesture, equipped with a search-bar for ease of use
   2) an LSL detector, which will open the camera of the phone and start detecting signs made by the user or a deaf person
+
 The aim of the catalog is to faciliate communication between those who do not know the LSL and those who practice it while the purpose of the LSL detector is to facilitate the understanding of what a deaf person wants to communicate.
  # How To Use The Android GestureGenius App ?
  - First, download this repository as a ZIP file and extract it, or use git and clone this repository using the git clone command. 
